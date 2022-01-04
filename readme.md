@@ -1,7 +1,6 @@
   
-  *LOL*
-  
-  ``I am noob``
+   
+  ``I am learning``
 
 
 My Languages:-
