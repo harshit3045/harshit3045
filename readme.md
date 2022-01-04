@@ -11,8 +11,8 @@ My Languages:-
         <img src="https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png" srcset="https://cdn.iconscout.com/icon/free/png-512/java-59-1174952.png 2x" alt="Java Icon" height="140"/>
         <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height="140"/>
          <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" height="140"/>
-         <img src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=140&color=currentColor " height="140" />
-          <img src=" " height="140" />
+         <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" height="140" />
+<!--           <img src=" " height="140" /> -->
         <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-18-1174938.png" srcset="https://cdn.iconscout.com/icon/free/png-512/mysql-18-1174938.png 2x" alt="Mysql Icon" height="140"/><br/>
   <img src="https://icongr.am/devicon/c-plain.svg?size=128&color=bc125a" height="140"/>
     <img src="https://icongr.am/devicon/cplusplus-plain.svg?size=148&color=36ca04" height="140"/>
